@@ -1,0 +1,8 @@
+*.pyc
+*.retry
+*.pyo
+*.swo
+*.sublime-*
+*.swp
+__pycache__
+.idea/
